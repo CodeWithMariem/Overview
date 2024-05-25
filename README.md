@@ -20,21 +20,15 @@
 
 ## Certifications
 
-- Microsoft Certified: Azure Solutions Architect Expert (AZ-305) - March 2024
 - Microsoft Azure Developer Associate (AZ-204) - August 2023
 - Microsoft Azure Fundamentals (AZ-900) - January 2023
 - Linux Essentials - October 2020
 
-## Languages
-
-- **Arabic:** Native language
-- **French:** Professional proficiency
-- **English:** Professional proficiency
 
 ## 📫 How to reach me
 
 - **Email:** ouerhanimariem@outlook.fr
-- **LinkedIn:** [Mariem's LinkedIn Profile](www.linkedin.com/in/mariem-ouerhani)
+- **LinkedIn:** [Mariem's LinkedIn Profile](https://www.linkedin.com/in/mariem-ouerhani/)
 - **Location:** Tunis, Tunisia
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration opportunities!
